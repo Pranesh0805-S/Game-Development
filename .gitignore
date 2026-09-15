@@ -1,3 +1,4 @@
 Mario/RiftRunnerV2/data/
 __pycache__/
 *.py[cod]
+venv
